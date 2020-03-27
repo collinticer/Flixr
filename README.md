@@ -8,4 +8,6 @@ Just a place for me to keep these handy but feel free to use them too with the s
 
 https://github.com/collinticer/NetflixPlaylists/blob/master/ExtensionHelp.md#help-using-the-browser-extension
 
+## Playlist listing
 
+https://github.com/collinticer/NetflixPlaylists/blob/master/PlaylistDB.md#listing-of-playlists
