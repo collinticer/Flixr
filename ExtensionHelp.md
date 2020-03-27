@@ -1,6 +1,6 @@
 # Help using the browser extension
 ## Install the plugin
-Download the plugin from my dropbox - - or this repo. Open the file, specifying Firefox as the program to open the XPI file with. Alternatively, dragging the file to the browser should also work.
+Download the plugin from my dropbox - https://www.dropbox.com/home?preview=netflix_channel-1.0.4-fx.xpi - or this repo. Open the file, specifying Firefox as the program to open the XPI file with. Alternatively, dragging the file to the browser should also work.
 
 ## Navigate to Netflix via the website, find a show to watch
 Just as the title says, the plugin can only add shows to it's playlist. Find something to watch.
