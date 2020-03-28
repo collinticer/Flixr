@@ -36,3 +36,8 @@ WyI3MDI5NTk4MiIsIjcwMjk1OTgzIiwiNzAyOTU5ODQiLCI3MDI5NTk4NSIsIjcwMjk1OTg2Il0=
 Select Fullmetal Alchemist episodes
 
 WyI3MDE3NTkwMSJd
+
+
+## WTF documentaries - Tiger King, Evil Genius and The Legend of Cocaine Mountain
+
+WyI4MTEzMDIyMCIsIjgwMTU4MzIwIiwiODExMzAyMjEiLCI4MTEzMDIyMiIsIjgwMTU4MzIxIiwiODExMzAyMjMiLCI4MTEzMDIyNCIsIjgwOTk5OTc3IiwiODExMzAyMjUiLCI4MDE1ODMyMiIsIjgxMjMyOTQ0IiwiODAxNTgzMjMiXQ==
