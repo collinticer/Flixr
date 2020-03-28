@@ -1,6 +1,6 @@
 # Listing of playlists
 
-Here are just some playlists that have been created to be used with the Firefox plugin. Enjoy! :)
+Here are just some playlists that have been created to be used with the Firefox plugin - [Flixr download](/download.xpi). Enjoy! :)
 
 
 ## The office (WIP)
