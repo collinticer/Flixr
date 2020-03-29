@@ -1,8 +1,18 @@
 {
     "playlists": [
         {
+            "name": "WTF did I just watch!?",
+            "description": "Tiger King, Evil Genius, The Legend of Cocaine Mountain and other off-the-wall shenanigans.",
+            "base64": "WyI4MTEzMDIyMCIsIjgwMTU4MzIwIiwiODExMzAyMjEiLCI4MTEzMDIyMiIsIjgwMTU4MzIxIiwiODExMzAyMjMiLCI4MTEzMDIyNCIsIjgwOTk5OTc3IiwiODExMzAyMjUiLCI4MDE1ODMyMiIsIjgxMjMyOTQ0IiwiODAxNTgzMjMiLCI4MTAzNTI3OSJd"
+        },
+        {
+            "name": "Star Trek - the ones with the holodeck",
+            "description": "Some of the best holodeck episodes from the various Star Trek series.",
+            "base64": "WyI3MDE3NzkzMSIsIjcwMTc3OTk2IiwiNzAyMDU5NTkiLCI3MDE3Nzg3NCIsIjcwMTc4MTA1IiwiNzAxNzgxMDgiLCI3MDIwNTk2NSIsIjcwMjA1ODg3IiwiNzAxNzgxNDciLCI3MDE3Nzg5MSIsIjcwMTc4MDAwIl0="
+        },
+        {
             "name": "Pokemon Kanto",
-            "description": "Pokemon Kanto, but with just the gym battles and new Pokemon Ash catches.",
+            "description": "Pokemon Kanto, but with just the gym battles and new Pokemon Ash catches - no fluff.",
             "base64": "WyI3MDI5NTk4MiIsIjcwMjk1OTgzIiwiNzAyOTU5ODQiLCI3MDI5NTk4NSIsIjcwMjk1OTg2IiwiNzAyOTU5ODgiLCI3MDI5NTk5MSIsIjcwMjk1OTkyIiwiNzAyOTU5OTMiLCI3MDI5NTk5NCIsIjcwMjk1OTk1IiwiNzAyOTU5OTYiLCI3MDI5NTk5NyIsIjcwMjk1OTk4IiwiNzAyOTYwMDEiLCI3MDI5NjAwMiIsIjcwMjk2MDAzIiwiNzAyOTYwMDQiLCI3MDI5NjAwNSIsIjcwMjk2MDEwIiwiNzAyOTYwMjQiXQ=="
         }
     ]
