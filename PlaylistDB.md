@@ -1,5 +1,7 @@
 # Listing of playlists
 
+This is now maintained in the channel listing from the app, so this file will no longer be updated. The new location is the playlist.json file.
+
 Here are just some playlists that have been created to be used with the Firefox plugin - [Flixr download](/download.xpi). Enjoy! :)
 
 
