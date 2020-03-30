@@ -2,7 +2,7 @@
     "playlists": [
         {
             "name": "Weekly Watchlist<br><span class='text-muted'>3/29-4/6/2020</span>",
-            "description": "My own watchilist this week. The Platform, Badland and Beastars S1:E1",
+            "description": "The Platform, Badland and Beastars S1:E1",
             "base64": "WyI4MTEyODU3OSIsIjgxMjE4MDc2IiwiODExMDY4NzUiXQ=="
         },
         {
@@ -34,6 +34,11 @@
             "name": "Pokemon Kanto",
             "description": "Pokemon Kanto, but with just the gym battles and new Pokemon Ash catches - no fluff.",
             "base64": "WyI3MDI5NTk4MiIsIjcwMjk1OTgzIiwiNzAyOTU5ODQiLCI3MDI5NTk4NSIsIjcwMjk1OTg2IiwiNzAyOTU5ODgiLCI3MDI5NTk5MSIsIjcwMjk1OTkyIiwiNzAyOTU5OTMiLCI3MDI5NTk5NCIsIjcwMjk1OTk1IiwiNzAyOTU5OTYiLCI3MDI5NTk5NyIsIjcwMjk1OTk4IiwiNzAyOTYwMDEiLCI3MDI5NjAwMiIsIjcwMjk2MDAzIiwiNzAyOTYwMDQiLCI3MDI5NjAwNSIsIjcwMjk2MDEwIiwiNzAyOTYwMjQiLCI3MDI5NjAyOCJd"
+        },
+        {
+            "name": "Watchlist",
+            "description": "Ongoing list of shows to watch.",
+            "base64": "WyI4MTIyNDE0NyIsIjcwMTQ1NjgyIiwiODAyNDM0NzkiLCI4MDIzOTY2NiIsIjgwMjIzNzMxIl0="
         }
     ]
 
