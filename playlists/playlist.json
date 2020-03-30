@@ -1,6 +1,11 @@
 {
     "playlists": [
         {
+            "name": "Weekly Watchlist - 3/29-4/6/2020",
+            "description": "My own watchilist this week. The Platform, Badland and Beastars S1:E1",
+            "base64": "WyI4MTEyODU3OSIsIjgxMjE4MDc2IiwiODExMDY4NzUiXQ=="
+        },
+        {
             "name": "Black Mirror",
             "description": "Black Mirror episodes in their supposed timeline order. Based on this sensible and well explained timeline <a href='https://www.denofgeek.com/tv/black-mirror-shared-universe-timeline/'>available here</a>",
             "base64": "WyI3MDI2NDg1NyIsIjcwMjc5MTc1IiwiNzAyNzkxNzMiLCI3MDI3OTE3NCIsIjgwMTA0NjI2IiwiODAxODY2NzQiLCI4MDE5NTcyNCIsIjgwMTk1NzI1IiwiNzAyNjQ4NTgiLCI4MDA3MzE1OCIsIjgwMTA0NjI3IiwiODAxMDQ2MzAiLCI4MDEwNDYyOSIsIjgwMTMxNTY5IiwiODAxMDQ2MjgiLCI4MDEzMTU2NyIsIjgwMTMxNTY2IiwiODAxMzE1NjgiLCI3MDI2NDg1NiIsIjgwMTA0NjI1IiwiODAxMzE1NzEiLCI4MDEzMTU3MCJd"
